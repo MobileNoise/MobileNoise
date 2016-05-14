@@ -1,0 +1,8 @@
+{
+  "request": "GetObservation",
+  "service": "SOS",
+  "version": "2.0.0",
+  "offering": "http://mobile-noise.ddns.net/offering/urn:muni:def:network:mobile:noise2015/observations",
+  "observedProperty": "http://sweet.jpl.nasa.gov/2.3/phenWaveNoise.owl#Noise",
+  "featureOfInterest": "urn:muni:def:world:environment:noise"
+}

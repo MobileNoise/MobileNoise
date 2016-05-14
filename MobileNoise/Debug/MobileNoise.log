@@ -1,0 +1,24 @@
+﻿Build started 23.4.2016 22:22:42.
+Project "C:\Production\MobileNoise\MobileNoise\MobileNoise\MobileNoise.vcxproj" on node 2 (Build target(s)).
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+  main.cpp
+Link:
+  C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Production\MobileNoise\MobileNoise\Debug\MobileNoise.exe" /INCREMENTAL /NOLOGO libpq.lib libpqxxD.lib libcurl.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Production\MobileNoise\MobileNoise\Debug\MobileNoise.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Production\MobileNoise\MobileNoise\Debug\MobileNoise.lib" /MACHINE:X86 Debug\jsoncpp.obj
+  Debug\curlTest.obj
+  Debug\jsonTest.obj
+  Debug\main.obj
+  Debug\MobileNoise.obj
+  Debug\NoiseClassifier.obj
+  Debug\NoiseReaderWriter.obj
+  Debug\Sos.obj
+  Debug\CachingStream.obj
+  Debug\SosReader.obj
+  Debug\SosTest.obj
+  Debug\sqlTest.obj
+  MobileNoise.vcxproj -> C:\Production\MobileNoise\MobileNoise\Debug\MobileNoise.exe
+Done Building Project "C:\Production\MobileNoise\MobileNoise\MobileNoise\MobileNoise.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:16.42

@@ -1,0 +1,8 @@
+{
+  "request": "GetObservation",
+  "service": "SOS",
+  "version": "2.0.0",
+  "offering": "http://mobile-noise.ddns.net/offering/urn:muni:def:network:mobile:noise2015/observations",
+  "observedProperty": "urn:x-ogc:def:property:MUNI::StreetSide",
+  "featureOfInterest": "urn:muni:def:world:environment:noise"
+}

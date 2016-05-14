@@ -1,0 +1,313 @@
+    {
+      "request" : "GetObservation",
+      "version" : "2.0.0",
+      "service" : "SOS",
+      "observations" : [
+        {
+          "type" : "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+          "identifier" : {
+            "codespace" : "http://www.opengis.net/def/nil/OGC/0/unknown",
+            "value" : "MAC1234567890_Side_2012-11-19T17:45:16+00:00"
+          },
+          "procedure" : "urn.meters.sound.mobile.phones.MAC123456789",
+          "offering" : "http://mobile-noise.ddns.net/offering/urn:muni:def:network:mobile:noise2015/observations",
+          "observableProperty" : "urn:x-ogc:def:property:MUNI::StreetSide",
+          "featureOfInterest" : {
+            "identifier" : {
+              "codespace" : "http://www.opengis.net/def/nil/OGC/0/unknown",
+              "value" : "urn:muni:def:world:environment:noise"
+            },
+            "name" : {
+              "codespace" : "http://www.opengis.net/def/nil/OGC/0/unknown",
+              "value" : "Noise"
+            },
+            "sampledFeature" : "http://sweet.jpl.nasa.gov/2.3/phenWaveNoise.owl#Noise",
+            "geometry" : {
+              "type" : "Point",
+              "coordinates" : [
+                51.935101100104916,
+                7.651968812254194
+              ]
+            }
+          },
+          "phenomenonTime" : "2012-11-19T15:45:15.000Z",
+          "resultTime" : "2012-11-19T15:45:16.000Z",
+          "result" : {
+            "uom" : "degrees",
+            "value" : 90.0
+          }
+        },
+        {
+          "type" : "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+          "identifier" : {
+            "codespace" : "http://www.opengis.net/def/nil/OGC/0/unknown",
+            "value" : "MAC1234567890_Side_2012-11-19T17:45:15+00:00"
+          },
+          "procedure" : "urn.meters.sound.mobile.phones.MAC123456789",
+          "offering" : "http://mobile-noise.ddns.net/offering/urn:muni:def:network:mobile:noise2015/observations",
+          "observableProperty" : "urn:x-ogc:def:property:MUNI::StreetSide",
+          "featureOfInterest" : {
+            "identifier" : {
+              "codespace" : "http://www.opengis.net/def/nil/OGC/0/unknown",
+              "value" : "urn:muni:def:world:environment:noise"
+            },
+            "name" : {
+              "codespace" : "http://www.opengis.net/def/nil/OGC/0/unknown",
+              "value" : "Noise"
+            },
+            "sampledFeature" : "http://sweet.jpl.nasa.gov/2.3/phenWaveNoise.owl#Noise",
+            "geometry" : {
+              "type" : "Point",
+              "coordinates" : [
+                51.935101100104916,
+                7.651968812254194
+              ]
+            }
+          },
+          "phenomenonTime" : "2012-11-19T17:45:14.000Z",
+          "resultTime" : "2012-11-19T17:45:15.000Z",
+          "result" : {
+            "uom" : "degrees",
+            "value" : 90.0
+          }
+        },
+        {
+          "type" : "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+          "identifier" : {
+            "codespace" : "http://www.opengis.net/def/nil/OGC/0/unknown",
+            "value" : "MAC9fbeea41-ccbb-374c-814e-a213c1915fd0_SIDE_2016-03-25T12:03:41+01:00"
+          },
+          "procedure" : "urn.meters.sound.mobile.phones.MAC9fbeea41-ccbb-374c-814e-a213c1915fd0",
+          "offering" : "http://mobile-noise.ddns.net/offering/urn:muni:def:network:mobile:noise2015/observations",
+          "observableProperty" : "urn:x-ogc:def:property:MUNI::StreetSide",
+          "featureOfInterest" : {
+            "identifier" : {
+              "codespace" : "http://www.opengis.net/def/nil/OGC/0/unknown",
+              "value" : "urn:muni:def:world:environment:noise"
+            },
+            "name" : {
+              "codespace" : "http://www.opengis.net/def/nil/OGC/0/unknown",
+              "value" : "Noise"
+            },
+            "sampledFeature" : "http://sweet.jpl.nasa.gov/2.3/phenWaveNoise.owl#Noise",
+            "geometry" : {
+              "type" : "Point",
+              "coordinates" : [
+                51.935101100104916,
+                7.651968812254194
+              ]
+            }
+          },
+          "phenomenonTime" : "2016-03-25T11:03:41.000Z",
+          "resultTime" : "2016-03-25T11:03:41.000Z",
+          "result" : {
+            "uom" : "degrees",
+            "value" : 0.0
+          }
+        },
+        {
+          "type" : "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+          "identifier" : {
+            "codespace" : "http://www.opengis.net/def/nil/OGC/0/unknown",
+            "value" : "MAC9fbeea41-ccbb-374c-814e-a213c1915fd0_SIDE_2016-03-25T12:03:49+01:00"
+          },
+          "procedure" : "urn.meters.sound.mobile.phones.MAC9fbeea41-ccbb-374c-814e-a213c1915fd0",
+          "offering" : "http://mobile-noise.ddns.net/offering/urn:muni:def:network:mobile:noise2015/observations",
+          "observableProperty" : "urn:x-ogc:def:property:MUNI::StreetSide",
+          "featureOfInterest" : {
+            "identifier" : {
+              "codespace" : "http://www.opengis.net/def/nil/OGC/0/unknown",
+              "value" : "urn:muni:def:world:environment:noise"
+            },
+            "name" : {
+              "codespace" : "http://www.opengis.net/def/nil/OGC/0/unknown",
+              "value" : "Noise"
+            },
+            "sampledFeature" : "http://sweet.jpl.nasa.gov/2.3/phenWaveNoise.owl#Noise",
+            "geometry" : {
+              "type" : "Point",
+              "coordinates" : [
+                51.935101100104916,
+                7.651968812254194
+              ]
+            }
+          },
+          "phenomenonTime" : "2016-03-25T11:03:49.000Z",
+          "resultTime" : "2016-03-25T11:03:49.000Z",
+          "result" : {
+            "uom" : "degrees",
+            "value" : 0.0
+          }
+        },
+        {
+          "type" : "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+          "identifier" : {
+            "codespace" : "http://www.opengis.net/def/nil/OGC/0/unknown",
+            "value" : "MAC9fbeea41-ccbb-374c-814e-a213c1915fd0_SIDE_2016-03-25T12:03:57+01:00"
+          },
+          "procedure" : "urn.meters.sound.mobile.phones.MAC9fbeea41-ccbb-374c-814e-a213c1915fd0",
+          "offering" : "http://mobile-noise.ddns.net/offering/urn:muni:def:network:mobile:noise2015/observations",
+          "observableProperty" : "urn:x-ogc:def:property:MUNI::StreetSide",
+          "featureOfInterest" : {
+            "identifier" : {
+              "codespace" : "http://www.opengis.net/def/nil/OGC/0/unknown",
+              "value" : "urn:muni:def:world:environment:noise"
+            },
+            "name" : {
+              "codespace" : "http://www.opengis.net/def/nil/OGC/0/unknown",
+              "value" : "Noise"
+            },
+            "sampledFeature" : "http://sweet.jpl.nasa.gov/2.3/phenWaveNoise.owl#Noise",
+            "geometry" : {
+              "type" : "Point",
+              "coordinates" : [
+                51.935101100104916,
+                7.651968812254194
+              ]
+            }
+          },
+          "phenomenonTime" : "2016-03-25T11:03:57.000Z",
+          "resultTime" : "2016-03-25T11:03:57.000Z",
+          "result" : {
+            "uom" : "degrees",
+            "value" : 0.0
+          }
+        },
+        {
+          "type" : "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+          "identifier" : {
+            "codespace" : "http://www.opengis.net/def/nil/OGC/0/unknown",
+            "value" : "MAC9fbeea41-ccbb-374c-814e-a213c1915fd0_SIDE_2016-03-25T12:04:05+01:00"
+          },
+          "procedure" : "urn.meters.sound.mobile.phones.MAC9fbeea41-ccbb-374c-814e-a213c1915fd0",
+          "offering" : "http://mobile-noise.ddns.net/offering/urn:muni:def:network:mobile:noise2015/observations",
+          "observableProperty" : "urn:x-ogc:def:property:MUNI::StreetSide",
+          "featureOfInterest" : {
+            "identifier" : {
+              "codespace" : "http://www.opengis.net/def/nil/OGC/0/unknown",
+              "value" : "urn:muni:def:world:environment:noise"
+            },
+            "name" : {
+              "codespace" : "http://www.opengis.net/def/nil/OGC/0/unknown",
+              "value" : "Noise"
+            },
+            "sampledFeature" : "http://sweet.jpl.nasa.gov/2.3/phenWaveNoise.owl#Noise",
+            "geometry" : {
+              "type" : "Point",
+              "coordinates" : [
+                51.935101100104916,
+                7.651968812254194
+              ]
+            }
+          },
+          "phenomenonTime" : "2016-03-25T11:04:05.000Z",
+          "resultTime" : "2016-03-25T11:04:05.000Z",
+          "result" : {
+            "uom" : "degrees",
+            "value" : 0.0
+          }
+        },
+        {
+          "type" : "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+          "identifier" : {
+            "codespace" : "http://www.opengis.net/def/nil/OGC/0/unknown",
+            "value" : "MAC9fbeea41-ccbb-374c-814e-a213c1915fd0_SIDE_2016-03-25T12:04:13+01:00"
+          },
+          "procedure" : "urn.meters.sound.mobile.phones.MAC9fbeea41-ccbb-374c-814e-a213c1915fd0",
+          "offering" : "http://mobile-noise.ddns.net/offering/urn:muni:def:network:mobile:noise2015/observations",
+          "observableProperty" : "urn:x-ogc:def:property:MUNI::StreetSide",
+          "featureOfInterest" : {
+            "identifier" : {
+              "codespace" : "http://www.opengis.net/def/nil/OGC/0/unknown",
+              "value" : "urn:muni:def:world:environment:noise"
+            },
+            "name" : {
+              "codespace" : "http://www.opengis.net/def/nil/OGC/0/unknown",
+              "value" : "Noise"
+            },
+            "sampledFeature" : "http://sweet.jpl.nasa.gov/2.3/phenWaveNoise.owl#Noise",
+            "geometry" : {
+              "type" : "Point",
+              "coordinates" : [
+                51.935101100104916,
+                7.651968812254194
+              ]
+            }
+          },
+          "phenomenonTime" : "2016-03-25T11:04:13.000Z",
+          "resultTime" : "2016-03-25T11:04:13.000Z",
+          "result" : {
+            "uom" : "degrees",
+            "value" : 0.0
+          }
+        },
+        {
+          "type" : "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+          "identifier" : {
+            "codespace" : "http://www.opengis.net/def/nil/OGC/0/unknown",
+            "value" : "MAC9fbeea41-ccbb-374c-814e-a213c1915fd0_SIDE_2016-03-25T12:04:21+01:00"
+          },
+          "procedure" : "urn.meters.sound.mobile.phones.MAC9fbeea41-ccbb-374c-814e-a213c1915fd0",
+          "offering" : "http://mobile-noise.ddns.net/offering/urn:muni:def:network:mobile:noise2015/observations",
+          "observableProperty" : "urn:x-ogc:def:property:MUNI::StreetSide",
+          "featureOfInterest" : {
+            "identifier" : {
+              "codespace" : "http://www.opengis.net/def/nil/OGC/0/unknown",
+              "value" : "urn:muni:def:world:environment:noise"
+            },
+            "name" : {
+              "codespace" : "http://www.opengis.net/def/nil/OGC/0/unknown",
+              "value" : "Noise"
+            },
+            "sampledFeature" : "http://sweet.jpl.nasa.gov/2.3/phenWaveNoise.owl#Noise",
+            "geometry" : {
+              "type" : "Point",
+              "coordinates" : [
+                51.935101100104916,
+                7.651968812254194
+              ]
+            }
+          },
+          "phenomenonTime" : "2016-03-25T11:04:21.000Z",
+          "resultTime" : "2016-03-25T11:04:21.000Z",
+          "result" : {
+            "uom" : "degrees",
+            "value" : 0.0
+          }
+        },
+        {
+          "type" : "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+          "identifier" : {
+            "codespace" : "http://www.opengis.net/def/nil/OGC/0/unknown",
+            "value" : "MAC9fbeea41-ccbb-374c-814e-a213c1915fd0_SIDE_2016-03-25T12:04:29+01:00"
+          },
+          "procedure" : "urn.meters.sound.mobile.phones.MAC9fbeea41-ccbb-374c-814e-a213c1915fd0",
+          "offering" : "http://mobile-noise.ddns.net/offering/urn:muni:def:network:mobile:noise2015/observations",
+          "observableProperty" : "urn:x-ogc:def:property:MUNI::StreetSide",
+          "featureOfInterest" : {
+            "identifier" : {
+              "codespace" : "http://www.opengis.net/def/nil/OGC/0/unknown",
+              "value" : "urn:muni:def:world:environment:noise"
+            },
+            "name" : {
+              "codespace" : "http://www.opengis.net/def/nil/OGC/0/unknown",
+              "value" : "Noise"
+            },
+            "sampledFeature" : "http://sweet.jpl.nasa.gov/2.3/phenWaveNoise.owl#Noise",
+            "geometry" : {
+              "type" : "Point",
+              "coordinates" : [
+                51.935101100104916,
+                7.651968812254194
+              ]
+            }
+          },
+          "phenomenonTime" : "2016-03-25T11:04:29.000Z",
+          "resultTime" : "2016-03-25T11:04:29.000Z",
+          "result" : {
+            "uom" : "degrees",
+            "value" : 0.0
+          }
+        }
+      ]
+    }
